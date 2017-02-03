@@ -1,3 +1,3 @@
 Jesse "BJ" Tao
-Derek "Jilao" Holland
+Partner: Derek Holland
 Lab 3 git stuff
